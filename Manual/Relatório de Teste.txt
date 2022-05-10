@@ -25,7 +25,6 @@ RF004 - O sistema deve permitir alterar a quantidade dos pedidos
 RF005 - o sistema deve permitir três formas de pagamento
 
 
-Ferramentas: Visual Studio Code, Bloco de Notas e Calc.
+Ferramentas: Visual Studio Code, Bloco de Notas.
 
-
-Resultado: Todos os testes feitos na aplicação passaram com sucesso
+Resultado Esperado: Todos os testes passaram com sucesso.
