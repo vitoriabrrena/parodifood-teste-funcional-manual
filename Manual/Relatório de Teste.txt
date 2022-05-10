@@ -1,0 +1,31 @@
+Introdução 
+
+Propósito do Sistema
+
+A empresa Parodifood fornece um software atuante no ramo de entrega de comida pela internet.
+
+O site foi criado pela QA Ninja com o intuito de ser usado para estudo de testes funcionais
+automatizados e manuais pelos professores e alunos.
+
+
+Abordagem de Teste
+
+Tipo de Teste: Funcional
+
+Subtipo de Teste: Requisitos
+
+RF001 - O sistema deve permitir visualizar o menu restaurantes cadastrados
+
+RF002 - O sistema deve permitir adicionar pedido ao carrinho
+
+RF003 - O  sistema deve permitir excluir pedido do cliente
+
+RF004 - O sistema deve permitir alterar a quantidade dos pedidos
+
+RF005 - o sistema deve permitir três formas de pagamento
+
+
+Ferramentas: Visual Studio Code, Bloco de Notas e Calc.
+
+
+Resultado: Todos os testes feitos na aplicação passaram com sucesso

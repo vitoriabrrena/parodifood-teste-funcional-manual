@@ -1,0 +1,50 @@
+User Story:
+
+Sendo um usuário que quer realizar uma compra no site da Parodifood
+Quero conhecer o menu de restaurantes
+Para que eu possa fazer um pedido
+
+
+Cenário: Buscar Restaurante
+
+Dado que acesso a tela inicial do Parodifood
+Quando clico na opção "Restaurantes"
+Então devo ser redirecionado para o menu de todos os restaurantes cadastrados
+
+Resultado Esperado: Passou com sucesso
+
+
+Cenário: Adicionar Pedido ao Carrinho
+
+Dado que escolho o produto
+Quando adiciono ao carrinho
+Então devo encontrar o produto certo
+
+Resultado Esperado: Passou com sucesso
+
+Cenário: Excluir Pedido
+
+Dado que não quero mais o produto
+Quando clicar na opção "Limpar"
+Então o produto deve ser removido do carrinho
+
+Resultado Esperado: Passou com sucesso
+
+
+Cenário: Alterar Quantidade 
+
+Dado que quero aumentar ou diminuir a quantidade do pedido
+Quando clico na opção "mais" ou "menos"
+Então o pedido deve ser modificado
+
+Resultado Esperado: Passou com sucesso
+
+
+Cenário: Formas de Pagamento
+
+Dado que preenchi as informações
+Quando escolho alguma das opções "Dinheiro, Cartão de Débito ou Cartão Refeição"
+Então devo conseguir realizar o pagamento 
+
+Resultado Esperado: Passou com sucesso
+
